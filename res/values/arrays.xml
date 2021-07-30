@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="images">
+        <item>@drawable/apples</item>
+        <item>@drawable/baby</item>
+        <item>@drawable/bart</item>
+        <item>@drawable/beach</item>
+        <item>@drawable/beetle</item>
+        <item>@drawable/cake</item>
+        <item>@drawable/car</item>
+        <item>@drawable/cruise</item>
+        <item>@drawable/dog</item>
+        <item>@drawable/eiffel</item>
+        <item>@drawable/elephant</item>
+        <item>@drawable/everest</item>
+        <item>@drawable/gandalf</item>
+        <item>@drawable/gradute</item>
+        <item>@drawable/harrypotter</item>
+        <item>@drawable/keys</item>
+        <item>@drawable/latte</item>
+        <item>@drawable/mansion</item>
+        <item>@drawable/mfdoom</item>
+        <item>@drawable/monalisa</item>
+        <item>@drawable/owl</item>
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/tennis</item>
+        <item>@drawable/uog</item>
+        <item>@drawable/harold</item>
+        <item>@drawable/orangutan</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/watch</item>
+    </integer-array>
+</resources>

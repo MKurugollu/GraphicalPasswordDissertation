@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mustafakurugollumasters">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyMasters">
+        <activity android:name=".ActivityGP_2_LogInFinal4"></activity>
+        <activity
+            android:name=".ActivityGP_2_LogInFinal3"
+            android:label="@string/title_activity_g_p_2__log_in_final3"
+            android:theme="@style/Theme.MyMasters.NoActionBar" />
+        <activity android:name=".ActivityGP_4_SignUpSuccess" />
+        <activity android:name=".ActivityGP_4_SignUpFailure" />
+        <activity android:name=".ActivityGP_4_SignUpFinal3" />
+        <activity android:name=".ActivityGP_4_SignUpFinal2" />
+        <activity android:name=".ActivityGP_4_SignUpFinal1" />
+        <activity android:name=".ActivityGP_4_SignUpPassword5" />
+        <activity android:name=".ActivityGP_4_SignUpPassword4" />
+        <activity android:name=".ActivityGP_4_SignUpPassword3" />
+        <activity android:name=".ActivityGP_4_SignUpPassword2" />
+        <activity android:name=".ActivityGP_4_SignUpPassword1" />
+        <activity android:name=".ActivityGP_4_LogInSuccess" />
+        <activity android:name=".ActivityGP_4_LogInFailure" />
+        <activity android:name=".ActivityGP_4_LogInFinal3" />
+        <activity android:name=".ActivityGP_4_LogInFinal2" />
+        <activity android:name=".ActivityGP_4_LogInFinal1" />
+        <activity android:name=".ActivityGP_4_SignUp" />
+        <activity android:name=".ActivityGP_3_SignUpFinalFailure" />
+        <activity android:name=".ActivityGP_3_SignUpFinalSuccess" />
+        <activity android:name=".ActivityGP_3_SignUpFinal1" />
+        <activity android:name=".ActivityGP_3_SignUpPassword" />
+        <activity android:name=".ActivityGP_2_SignUpFinalSuccess" />
+        <activity android:name=".ActivityGP_2_SignUpFinalFailure" />
+        <activity android:name=".ActivityGP_3_LogInFinalSuccess" />
+        <activity android:name=".ActivityGP_3_LogInFinalFailure" />
+        <activity android:name=".ActivityGP_2_SignUpFinal3" />
+        <activity android:name=".ActivityGP_2_SignUpFinal2" />
+        <activity android:name=".ActivityGP_2_SignUpFinal1" />
+        <activity android:name=".ActivityGP_2_SignUpPassword" />
+        <activity android:name=".ActivityGP_3_SignUp" />
+        <activity android:name=".ActivityGP_3_LogInFinal1" />
+        <activity android:name=".ActivityGP_2_LogInFinalFailure" />
+        <activity android:name=".ActivityGP_2_LogInFinalSuccess" />
+        <activity android:name=".ActivityGP_2_LogInFinal5" />
+        <activity
+            android:name=".ActivityGP_2_LogInFinal2"
+            android:label="@string/title_activity_g_p_2__log_in_final2"
+            android:theme="@style/Theme.MyMasters.NoActionBar" />
+        <activity android:name=".ActivityGP_2_SignUp" />
+        <activity android:name=".ActivityGP_2_LogInFinal1" />
+        <activity android:name=".ActivityGP_1_LogInFailure" />
+        <activity android:name=".ActivityGP_1_LogInSuccess" />
+        <activity android:name=".ActivityGP_1_LogInFinal4" />
+        <activity android:name=".ActivityGP_1_LogInFinal3" />
+        <activity android:name=".ActivityGP_1_LogInFinal2" />
+        <activity android:name=".ActivityGP_1_LogInFinal1" />
+        <activity android:name=".ActivityGP_1_SignUpFinalFailure" />
+        <activity android:name=".ActivityGP_1_SignUpFinalSuccess" />
+        <activity android:name=".ActivityGP_1_SignUpFinal4" />
+        <activity android:name=".ActivityGP_1_SignUpFinal3" />
+        <activity android:name=".ActivityGP_1_SignUpFinal2" />
+        <activity android:name=".ActivityGP_1_SignUpFinal1" />
+        <activity android:name=".ActivityGP_1_SignUpPassword" />
+        <activity android:name=".ActivityGP_1_SignUp" />
+        <activity android:name=".ActivityGP_4_LogIn" />
+        <activity android:name=".ActivityGP_3_LogIn" />
+        <activity android:name=".ActivityGP_2_LogIn" />
+        <activity android:name=".ActivityGP_1_LogIn" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
